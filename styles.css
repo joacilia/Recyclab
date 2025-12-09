@@ -9,6 +9,7 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
+    background-color: #dbdec2;
 }
 
 h1, h2, h5 {
@@ -28,5 +29,6 @@ a, .btn-link:hover {
 a:hover{
     color: var(--cor-destaque);
 }
+
 
 
